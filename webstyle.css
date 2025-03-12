@@ -43,7 +43,7 @@ ul {
     background-color: #785B3A;
   }
 header {
-    background-image: url("omakuva1.jpg");
+    background-image: url("omaroma.jpg");
     background-position: center;
     background-size: cover;
     padding-top: 300px;
@@ -52,7 +52,7 @@ header {
     background-image: url("mustavalko.jpg");
     background-size: cover;
     margin-top: -50px;
-    padding-top: 300px s;
+    
 }
 .more h1 {
     color: black;
